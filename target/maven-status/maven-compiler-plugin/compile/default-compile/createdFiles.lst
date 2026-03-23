@@ -1,0 +1,12 @@
+com\oodpp\shopping\factory\BookFactory.class
+com\oodpp\shopping\product\Electronics.class
+com\oodpp\shopping\factory\ElectronicsFactory.class
+com\oodpp\shopping\stock\StockSubject.class
+com\oodpp\shopping\factory\ProductFactory.class
+com\oodpp\shopping\stock\StockObserver.class
+com\oodpp\shopping\product\Product.class
+com\oodpp\shopping\stock\StockManager.class
+com\oodpp\shopping\customer\Customer.class
+com\oodpp\shopping\Main.class
+com\oodpp\shopping\product\Book.class
+com\oodpp\shopping\cart\ShoppingCart.class
